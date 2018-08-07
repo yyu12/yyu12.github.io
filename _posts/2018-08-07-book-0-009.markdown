@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "[Book]深入理解计算机系统(第三版) 第九章"
 date:   2018-08-07 20:52:59 +0800
 categories: jekyll update
